@@ -93,16 +93,7 @@ Smart-Hospital-Management-System/
 │
 ├── README.md
 ├── SQL/
-│   ├── schema.sql
-│   ├── inserts.sql
-│   ├── views.sql
-│   ├── triggers.sql
-│   ├── procedures.sql
-│   ├── security.sql
-│   └── queries.sql
-│
 ├── Documentation/
-│   ├── EERD.png
 │   ├── Presentation.pptx
 │   └── Project_Report.pdf
 │
